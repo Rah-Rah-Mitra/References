@@ -1,5 +1,5 @@
 # References
- if Repository is Public:
+ ## if Repository is Public:
  git config --global user.name "username"
  git config --global user.email "email"
  git clone https://github.com/Rah-Rah-Mitra/References.git
